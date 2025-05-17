@@ -2,6 +2,9 @@
 
 A **simple and clean Task Management** application built with **Laravel**, **Bootstrap**, and **FontAwesome**. This is a great starter project for beginners to learn and practice **CRUD (Create, Read, Update, Delete)** operations in Laravel. It features a responsive UI and uses Bootstrap modals for create and edit forms.
 
+## 📸 Screenshots
+![Screenshot_3](https://github.com/user-attachments/assets/b20ae2b9-1063-4d32-88ec-12794957e4f4)
+
 ## 🚀 Features
 
 * 🧾 Add new tasks using a modal
@@ -74,6 +77,3 @@ This project is ideal if you're:
 * Exploring how to use modals and toggles for interactive UX
 
 ---
-
-## 📸 Screenshots
-![Screenshot_3](https://github.com/user-attachments/assets/b20ae2b9-1063-4d32-88ec-12794957e4f4)
