@@ -1,4 +1,4 @@
-# 📝 Laravel Task Manager (CRUD Application)
+# 📝 PandaTask, A Laravel Task Manager (CRUD Application)
 
 A **simple and clean Task Management** application built with **Laravel**, **Bootstrap**, and **FontAwesome**. This is a great starter project for beginners to learn and practice **CRUD (Create, Read, Update, Delete)** operations in Laravel. It features a responsive UI and uses Bootstrap modals for create and edit forms.
 
