@@ -76,3 +76,4 @@ This project is ideal if you're:
 ---
 
 ## 📸 Screenshots
+![Screenshot_3](https://github.com/user-attachments/assets/b20ae2b9-1063-4d32-88ec-12794957e4f4)
